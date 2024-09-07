@@ -8,7 +8,7 @@ Noran Morad (NoranMorad)
 Omar holayell sawy ( Holayell)
 
 
-**SRplot: Free Online Data Visualization Tool** [^1]
+# **SRplot: Free Online Data Visualization Tool** [^1]
 
 SRplot is a free online tool that makes graphs easier for scientists who
 don't have programming skills. existing visualizing tools often require
@@ -25,7 +25,7 @@ types of graphs directly in their web browser without needing to any
 programming skills with free access to non-commercial users.
 
 
-**Method:**
+# **Method:**
 
 SRplot provides over 120 Python and R-coded modules designed for
 visualising and generating graphs from biomedical and bioinformatics
@@ -33,7 +33,7 @@ data. While many of these functions were not originally developed for
 SRplot, they have been optimized and enhanced.
 
 
-**Results**
+# **Results**
 
 SRplot developed for wet lab biologists, it contains 120 function covers
 genomics, transcriptomics and epigenomics with many graphing types as
@@ -48,7 +48,7 @@ genomics, transcriptomics and epigenomics with many graphing types as
 - epigenome plots(metagene plots and motif plots)
 
 
-**Advantage**:
+# **Advantage**:
 
 1\. It is freely online easy Tool which could be used with any
 non-commercial.
@@ -60,14 +60,14 @@ with most databases.
 (PDF & SVG) format.
 
 
-**Input & output:**
+# **Input & output:**
 
 Users should paste their data in input box, setting preferred options
 then submit, and if data has been changed then automatically it will be
 recalculated and graphs will be regenerated.
 
 
-**Discussion**
+# **Discussion**
 
 SRplot is a freely accessible online tool designed to streamline the
 process of data visualization and graphing for bioinformatics. It
@@ -77,7 +77,7 @@ software and the need for multiple tools to produce comprehensive
 figures.
 
 
-**limitations:**
+# **limitations:**
 
 SRplot currently has limitations with visualizing high-dimensional data,
 as large datasets slow down the website. Users may also need external
@@ -87,7 +87,7 @@ non-commercial users.
 
 
 
-**Future developments:**
+# **Future developments:**
 
 SRplot is not the final version, it will be continuously
 enhanced.Upstream and downstream data analysis features will be added,
@@ -95,7 +95,7 @@ based on user feedback and advancements in the biomedical field.
 
 
 
-**Refrence:**
+# **Refrence:**
 
 Tang D, Chen M, Huang X, Zhang G, Zeng L, et al. (2023) SRplot: A free
 online platform for data visualization and graphing. PLOS ONE 18(11):
