@@ -7,6 +7,9 @@ Noran Morad (NoranMorad)
 
 Omar holayell sawy ( Holayell)
 
+# **Our Linkedin post:** https://www.linkedin.com/posts/amira-mahmoud-4bb6a7242_srplot-activity-7238219829076234240-pthu?utm_source=share&utm_medium=member_desktop
+
+
 
 # **SRplot: Free Online Data Visualization Tool** [^1]
 
